@@ -1,4 +1,5 @@
 # Fairwaves XTRX FPGA images, pre-compiled binaries, and software documentation
+# Bandwidth Filter, IQ and DC Calibration function Enhancment for SRSRAN.
 
 This repository hosts FPGA images and pre-compiled binaries for XTRX.
 
