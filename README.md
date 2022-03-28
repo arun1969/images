@@ -49,7 +49,7 @@ Navigate where you downloaded the repo, in this case:
 First, you need to clone relevant revisions of source modules:
 ```
 % git submodule init
-% git submodule update
+% git submodule update --remote
 ```
 Now enter the `sources` directory and run:
 ```
